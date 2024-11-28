@@ -1,0 +1,17 @@
+.carrinho ul {
+    list-style: none;
+    padding: 0;
+}
+
+.carrinho ul li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.produto-detalhes {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 20px;
+}
